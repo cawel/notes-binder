@@ -2,7 +2,7 @@
 
 ## Contrasts between Europe and China at that time
 * Europe:
-    - persistence of feudalism and localism pitted these micro kingdoms against each others in a chronic state of internal struggle for supramacy
+    - persistence of feudalism and localism pitted these micro kingdoms against each others in a chronic state of internal struggle for supremacy
     - internal rivalry, constant disequilibirum
     - highly militaristic, aggressive political culture which will drive to expansionism
     - single faith: Christendom
@@ -40,19 +40,19 @@
 ## Ottoman forces
 * 1453: Ottoman forces overwhelmed the capital of the Byzantine Empire in Constantinople
 * Constantinople was the most important city of Christendom
-* Mehmed transformed the largest church in Christendom into a giant mosque
+* Mehmed transformed the largest church in Christendom (in Constantinople) into a giant mosque
 * siege of Vienna in 1529, but did not succeed
 
 ## Be skeptical of drawing a hard line between Christendom and Islam
-* some Christians were fascinated by their scientific/intellectual/artistic achievements 
+* some Christians were fascinated by Islamic scientific/intellectual/artistic achievements 
 * some Christians saw merchants from the Byzantine Empire as threats
 
-## Painting by Gentelli and Giovanni Bellini
+## Painting by Gentile and Giovanni Bellini
 * 1507: Saint Mark preaching in Alexandria
 * Turks, Arabs, Christians, Africans mingling together
 * a city of multiple faiths: Byzantine chapel, minarets and temples
 * cosmopolitan city, crossroad of many areas on the world
 
 ## Muslim Blockade
-* the power that Islam had now imposed in the Eastern end of Mediterranean
-* the power of the Ottoman Empire in the Eastern Mediterranean sealed off those old trade routes and migration routes that had once connected Eurasia
+* religious: the power that Islam had now imposed in the Eastern end of Mediterranean
+* commercial: the power of the Ottoman Empire in the Eastern Mediterranean sealed off those old trade routes and migration routes that had once connected Eurasia

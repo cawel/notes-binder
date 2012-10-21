@@ -11,7 +11,7 @@
 
 ## Mediterranean Region
 * world history hot spot in late 14th and 15th
-* islamic states emerged in the wake of the Black Death
+* Islamic states emerged in the wake of the Black Death
 * newcomers will fill these political vacuums
 * created a whole new political landscape in Afro-Eurasia
 
@@ -32,6 +32,6 @@
 * special appeal to religious and ethnic identities 
 
 ## Examples of appeals
-* Ming: Han ethnic identity against vs Mongol Barbarians
+* Ming: Han ethnic identity against Mongol Barbarians
 * Christians: connection with God
-* Islam: new faith-based model of low for all subjects
+* Islam: new faith-based model of law for all subjects
