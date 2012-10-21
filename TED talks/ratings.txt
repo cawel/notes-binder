@@ -15,7 +15,7 @@
  Jacqueline Novogratz: Investing in Africa's own solutions (Jul 2005)                  3
  Sergey Brin and Larry Page: Inside the Google machine (Feb 2004)                      3
  Bjorn Lomborg: Our priorities for saving the world (Feb 2005)                         4
- Jonathan Drori: Why we don’t understand as much as we think we do                   1
+ Jonathan Drori: Why we don’t understand as much as we think we do                     1
  Peter Hirshberg: The Web and TV, a sibling rivalry                                    3
  Irwin Redlener: How to survive a nuclear attack (Feb 2008)                            2
  Rodney Brooks: How robots will invade our lives (Feb 2003)                            2
@@ -33,8 +33,8 @@
  Dan Gilbert: Why are we happy? Why aren't we happy? (Feb 2004)                        5
  Dan Ariely: Why we think it's OK to cheat and steal (sometimes) (Feb 2009)            4
  Tim Ferriss: How to feel like the Incredible Hulk                                     1
- Rory Sutherland: Life lessons from an ad man					       3
- Pattie Maes and Pranav Mistry demo SixthSense (Feb 2009)			       4
+ Rory Sutherland: Life lessons from an ad man					                                 3
+ Pattie Maes and Pranav Mistry demo SixthSense (Feb 2009)			                         4
  Dan Pink on the surprising science of motivation (July 2009)                          4
  Sir Ken Robinson: Do schools kill creativity? (Feb 2006)                              4
  Elizabeth Gilbert: on nurturing creativity (Feb 2009)                                 3
