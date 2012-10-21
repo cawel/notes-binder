@@ -14,8 +14,8 @@ because it is useful to think about earlier formations before the nation state
 * before the revolution: 1 million people on Earth
 * domesticating plants
 * before neolithic revolution, standards of living were constant. e.g.:
-** life expectancy: 30-35 years
-** average height: 5" - 5"6' tall
+  * life expectancy: 30-35 years
+  * average height: 5" - 5"6' tall
 
 ## Adam Smith in Wealth of Nations
 * wealth was an important engine for social interaction between village societies
