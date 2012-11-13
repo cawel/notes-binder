@@ -9,7 +9,7 @@ Historian Alfred Crosby coined "the Columbian exchange"
 
 ## Americas' population dramatically dropped
 * within the 1st century after European contact, pop dropped from 100-120 million to 20 million
-* they tried to blood in Europeans' bread
+* they tried to spoil Europeans' bread with their own blood
 * they put infected bodies into the wells
 
 ## Diseases
