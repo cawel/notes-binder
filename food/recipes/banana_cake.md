@@ -9,15 +9,15 @@
 * 1 teaspoon baking soda
 * 1 teaspoon baking powder
 * pinch of salt
-* 1 1/2 cups of all-purpose flour
+* 1 1/2 cups of all-purpose flour (not whole-wheat)
 
 ## Optional
-* can add smashed nuts
-* can add chocolate chips
-* can put banana slices on top
+* put banana slices on top
+* add smashed nuts to the mix
+* add chocolate chips to the mix
 
 ## Oven
-* 350 F
+* 350-375 °F
 * for ~45 min
 
 ## Inspiration
