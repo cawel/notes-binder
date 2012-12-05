@@ -1,4 +1,4 @@
-# Banana cake (or banana bread)
+# Banana cake
 
 ## Ingredients
 * 3 ripe bananas, smashed
@@ -17,8 +17,8 @@
 * add chocolate chips to the mix
 
 ## Oven
-* 350-375 °F
-* for ~45 min
+* 375 °F
+* ~60 min
 
 ## Inspiration
 * http://www.momswhothink.com/cake-recipes/banana-cake-recipe.html
