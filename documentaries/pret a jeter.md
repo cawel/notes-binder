@@ -2,8 +2,7 @@
 
 ## Méta
 * réalisé par Cosima Dannoritzer en 2010
-* source: 
-<iframe width="853" height="480" src="http://www.youtube.com/embed/J-XGn32vYQU" frameborder="0" allowfullscreen></iframe>
+* source: http://www.youtube.com/embed/J-XGn32vYQU
 * appréciation: 5/5
 
 ## Ampoule de Livermore (Angleterre) 
@@ -105,4 +104,4 @@
 
 ## le monde doit changer
 * la planète ne pourra pas supporter cela indéfiniment: les ressources naturelles et énergétiques ne sont pas inépuisables
-* "le monde sera toujours assez grand pour satisfaire les besoins de tous, mais toujours trop petit pour satisfaire l'avidité de quelques uns" - Gandhi
+* "le monde sera toujours assez grand pour satisfaire les besoins de tous, mais toujours trop petit pour satisfaire l'avidité de quelques-uns" - Gandhi
