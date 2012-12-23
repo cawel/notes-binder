@@ -17,7 +17,8 @@
 * discovery of equatorial currents and winds to use in sailing (ships could sail West in order to reach the East)
 
 ## Christopher Columbus
-* made constants navigational mistakes in his logs
+* Under the auspices of the Catholic monarchs of Spain, he completed 4 voyages across the Atlantic Ocean that led to general European awareness of the American continents
+* made constant navigational mistakes in his logs
 * arrived in the Caribbean's islands
 * on behalf of Isabella and Ferdinand (in the process of reconquering Spain from Muslim powers)
 * Columbus took natives with him on the boat to teach them Spanish and learn the native language
