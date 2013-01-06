@@ -53,3 +53,27 @@ Yield: One 1½-pound loaf.
 * 3 soupspoon sugar
 * 1 cup organic raisins
 * muscad
+* feedback:
+  * rate: 3/5
+  * muscad is not optimal. Cinnamon would have been much better
+
+### Experiment #4
+* 3 cups flour
+* 1 teaspoon salt
+* 1/4 teaspoon yeast
+* 8 teaspoon raisins
+* 2 teaspoon cinnamon
+* 1 5/8 water
+* oven @ 425 F
+* no pre-heat of the pyrex container
+
+### Experiment #5
+* 0.5 cup buckwheat flour
+* 2.5 cups flour
+* 1 teaspoon salt
+* 1/4 teaspoon yeast
+* 1 5/8 water
+* oven @ 425 F
+* no pre-heat of the pyrex container
+* feedback:
+  * 4/5
