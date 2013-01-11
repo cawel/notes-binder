@@ -66,6 +66,12 @@ Yield: One 1½-pound loaf.
 * 1 5/8 water
 * oven @ 425 F
 * no pre-heat of the pyrex container
+* feedback:
+  * rate: 3/5
+  * lacked a bit of baking (oven had probably not reached its 425 temperature)
+  * crust was not too hard this time (425, and not 450, was probably a good idea)
+  * would benefit from at least 1 teaspoon sugar
+  * corinth raisins would probably be better
 
 ### Experiment #5
 * 0.5 cup buckwheat flour
