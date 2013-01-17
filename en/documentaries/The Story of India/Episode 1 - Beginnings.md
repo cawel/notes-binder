@@ -1,4 +1,4 @@
-# The Story of India (1/6)
+# The Story of India: Beginnings
 
 ## Intro
 * 60 years ago, India became a free nation (1947)
