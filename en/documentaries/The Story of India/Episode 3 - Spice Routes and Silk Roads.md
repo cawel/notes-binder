@@ -56,6 +56,8 @@
 * they were behind the development Sanskrit, as a language of international scholarship in the East (like Medieval Lain in the West)
 * a great historian of the Roman Empire, Edward Gibbon, said that the 2nd century AD was the happiest time for humanity in the whole history of the world
 * the most important legacy of the Kushan age in world history was brought about by Kushans Buddhist monks, traders who travelled the Silk Route and took Buddhism to China
+* by AD 130, when the Emperor Hadrian ruled the Roman Empire in the West, and the Han Chinese far to the East, the Kushans under Kanishka ruled the middle of the world from the Aral Sea to the Bay of Bengal: 
+![map](https://github.com/cawel/notes-binder/blob/master/en/documentaries/The Story of India/kushans.jpg)
 
 ## Parting words
 * in the 2nd century AD, Indian subcontinent had the world's biggest population, and one of the biggest economies
