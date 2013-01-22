@@ -63,7 +63,7 @@ During the dark ages of Europe (400 AD), India has a Golden Age
 * the Cholan age was one of the greatest periods of Indian art
 * the Cholans: one of the world's great power
 * colonies in Java, Sumatra and the islands of Indonesia:
-![]("cholans.jpg")
+![](cholans.jpg)
 <img src="cholans.jpg">
 * pace in South India is slower
 
