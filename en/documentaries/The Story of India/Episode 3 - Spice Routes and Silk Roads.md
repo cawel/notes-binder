@@ -27,6 +27,7 @@
 * 2 passes which lead Eastward go through the mountains of Kerala into the plains of South India
 * Tamil Nadu: the place the British thought to be the most fertile of their Empire
 * Tamil Nadu: 3 harvests a year
+* ![Tamil Nadu location on the map](India_Tamil_Nadu.png)
 
 ## Madurai
 * capital of this southern civilization was the city of Madurai
