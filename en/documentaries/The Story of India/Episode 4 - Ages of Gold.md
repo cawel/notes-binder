@@ -2,8 +2,8 @@
 
 During the dark ages of Europe (400 AD), India has a Golden Age
 
-## tale of Rama
-* the god who came down to Earth as a king who defeated evil and ruled with justice
+## Tale of Rama
+* a story about the god who came down to Earth as a king who defeated evil and ruled with justice
 * 300 versions of the Rama story in 20 different languages
 * the "Bible of India"
 * 31 days of performance of the plays of the story of Rama
@@ -28,15 +28,16 @@ During the dark ages of Europe (400 AD), India has a Golden Age
 
 ## Gupta period
 * Fahsien traveled to the Ganges plains
-* pluralist country
-* Buddhism thrive along with hindu religion
+* even at the time, India was a pluralist country
+* Buddhism thrived along with Hindu religion
 * they mastered metal casting
 * high iron pillar which stands in Delhi today
 
 ## Leaps in all fields
 * after defeating the Huns, the Gupta kings made their court the centre of high culture, drama and literature, science
 * use of zero in math
-* Aryabhatta, an astronomer 500 AD, proved the Earth went round the sun
+* Aryabhatta, an astronomer in 500 AD, proved the Earth went round the sun
+* by contrast, Nicolaus Copernicus was from the Renaissance period (15-16th century)
 
 ## Kama Sutra
 * world’s first sex guide
@@ -44,10 +45,11 @@ During the dark ages of Europe (400 AD), India has a Golden Age
 * Kama Sutra was written in the 5th century
 
 ## Hindu philosophy
-* dharma: righteous human being (virtue)
-* artha: fathering wealth
-* kama: idea of love
-* moksha: liberation
+* 4 purusharthas (goals of human existence):
+  * dharma: (religious, social and/or moral) righteousness, both spiritual and ritual
+  * artha: (material and/or financial) prosperity as well as pursuit of meaning
+  * kama: (sexual) pleasure
+  * moksha: (spiritual) liberation; or renunciation as well as detachment
 * men and women are equal
 * the product of an age of freedom of thought
 
@@ -59,11 +61,11 @@ During the dark ages of Europe (400 AD), India has a Golden Age
 * Rajaraja, the King of Kings
 * a civilization that still exists today
 * the temple is a record keeper
-* temple is a written-record of the administration of the Cholan empire
+* the temple is a written-record of the administration of the Cholan empire
 * the Cholan age was one of the greatest periods of Indian art
 * the Cholans: one of the world's great power
 * colonies in Java, Sumatra and the islands of Indonesia:
-![Cholan territory](https://github.com/cawel/notes-binder/blob/master/en/documentaries/The%20Story%20of%20India/cholans.jpg)
+![map of the Cholan territory](cholans.jpg)
 * pace in South India is slower
 
 ## Tamil
