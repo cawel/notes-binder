@@ -7,7 +7,7 @@
   * November: wind blows in the opposite direction
 
 ## Navigation
-* some trade boats are sill made like they were 2000 years ago
+* some of today's trade boats are sill made like they were 2000 years ago
 * first they build the skin, then the frame
 * Greek and Roman navigators opened up the trade with India
 
@@ -39,7 +39,7 @@
 
 ## Silk route
 * Silk route opened around the 1st century BC
-* India in the middle of the silk road
+* India was in the middle of the silk road
 * richest cargo on those caravans was silk
 * Raw Chinese silk to be turned by Indian weavers into works of art
 
@@ -54,11 +54,12 @@
 * like the Mughals and the British, the Kushans were outsiders, a foreign military elite ruling the people of India
 * by encouraging long distance trade and religious tolerance, the Kushans brought peace to a vast area for more than 2 centuries
 * with the peace, they could foster the arts, literature and sciences
-* they were behind the development Sanskrit, as a language of international scholarship in the East (like Medieval Lain in the West)
-* a great historian of the Roman Empire, Edward Gibbon, said that the 2nd century AD was the happiest time for humanity in the whole history of the world
-* the most important legacy of the Kushan age in world history was brought about by Kushans Buddhist monks, traders who travelled the Silk Route and took Buddhism to China
+* they were behind the development of Sanskrit, as a language of international scholarship in the East (like Medieval Lain in the West)
+* a great historian of the Roman Empire, Edward Gibbon, said that the 2nd century AD was the happiest time for Humanity in the whole history of the world
+* the most important legacy of the Kushan age in world history was brought about by Kushans Buddhist monks and traders 
+* who travelled the Silk Route and took Buddhism to China
 * by AD 130, when the Emperor Hadrian ruled the Roman Empire in the West, and the Han Chinese far to the East, the Kushans under Kanishka ruled the middle of the world from the Aral Sea to the Bay of Bengal: 
-![map](https://github.com/cawel/notes-binder/blob/master/en/documentaries/The Story of India/kushans.jpg)
+* ![map of the Kushan empire area](kushans.jpg)
 
 ## Parting words
 * in the 2nd century AD, Indian subcontinent had the world's biggest population, and one of the biggest economies
