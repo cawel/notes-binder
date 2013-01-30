@@ -51,7 +51,7 @@
 * Akbar's thoughts: everything religion is wrong, but all differences had to be tolerated
 * Akbar embraced all India's religions
 * The Moghul ruled over the North of India for more than 300 years, displaced by the British
-* ![Moghuls' empire map at the end of the 1500's:](Moghuls.jpg)
+* Moghuls' empire area at the end of the 1500's: ![map](Moghuls.jpg)
 * Elizabeth I wrote to Akbar: the singular report of your Majesty's *humanity* has reached even those distant shores of the world
 * 2 important aspects of Akbar: humanity and rationality
 * "Elizabeth I" = "Elizabeth of England" = "Elizabeth Tudor"
