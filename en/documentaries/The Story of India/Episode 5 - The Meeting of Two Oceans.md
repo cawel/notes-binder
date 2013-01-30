@@ -7,6 +7,7 @@
 * Multan was his base from which he raided the rest of India
 * Mahmoud led a dozen expeditions into India
 * the most famous was in 1025 (with 20 000 camels), in order to attack Somnath
+* in Somnath, Mahmoud destroys the temple of Shiva and all idols there
 
 ## The Clash between Islam and Hinduism
 * historian Al Biruni (who was no fan of Mahmoud) said that the 12 great plundering expeditions engendered a hatred among Hindus for the Turks (the Muslims)
