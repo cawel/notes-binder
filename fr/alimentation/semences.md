@@ -1,15 +1,16 @@
 # Les semences
 
-## Source (23 min)
+## Source
+* documentaire de 23 min
 <iframe width="560" height="315" src="http://www.youtube.com/embed/XlH9KSR3X5U?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Pouvoir des firmes semencières
-* 9 multinationales contrôle 90% du marché
+* 9 multinationales contrôlent 90% du marché
 
 ## Le terme "hybride" (avant)
 * les paysans ont toujours fait des hybrides
-* paysans = premiers généticiens du monde
-* les paysans pratiquaient la sélection massale (croisement de 2 plantes)
+* les paysans = les premiers généticiens du monde
+* les paysans pratiquaient la "sélection massale" (croisement de 2 plantes)
 
 ## Le terme "hybride" (maintenant)
 * maintenant, c'est un terme réservé aux semences produites par les semenciers
