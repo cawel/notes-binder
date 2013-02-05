@@ -22,18 +22,19 @@ Yield: One 1½-pound loaf.
 
 ## My own experiments
 
-### Experiment #1
+### Experiment #1: plain
 * 3 cups all-usage flour
 * pinch of salt
 * 1/4 teaspoon yeast
 * 1 5/8 water
+* 450 F
 * feedback:
   * rate: 2/5
   * would have needed more salt
   * texture: excellent
   * too long in oven (it should not be more than 60 min)
 
-### Experiment #2
+### Experiment #2: whole wheat
 * 3 cups integral flour
 * 1 teaspoon salt
 * 1/4 teaspoon yeast
@@ -45,24 +46,24 @@ Yield: One 1½-pound loaf.
   * texture: integral flour meant final bread is too compact
   * to try next time: mix integral flour and all-purpose flour
 
-### Experiment #3
+### Experiment #3: raisins and nutmeg
 * 3 cups organic flour
 * 1 teaspoon salt
 * 1/4 teaspoon yeast
 * 1 5/8 water
-* 3 soupspoon sugar
+* 3 tablespoons sugar
 * 1 cup organic raisins
-* muscad
+* nutmeg
 * feedback:
   * rate: 3/5
-  * muscad is not optimal. Cinnamon would have been much better
+  * nutmeg is not optimal. Cinnamon would have been much better
 
-### Experiment #4
+### Experiment #4: raisons and cinnamon
 * 3 cups flour
 * 1 teaspoon salt
 * 1/4 teaspoon yeast
-* 8 teaspoon raisins
-* 2 teaspoon cinnamon
+* 8 tablespoons raisins
+* 2 tablespoons cinnamon
 * 1 5/8 water
 * oven @ 425 F
 * no pre-heat of the pyrex container
@@ -73,7 +74,7 @@ Yield: One 1½-pound loaf.
   * would benefit from at least 1 teaspoon sugar
   * corinth raisins would probably be better
 
-### Experiment #5
+### Experiment #5: buckwheat
 * 0.5 cup buckwheat flour
 * 2.5 cups flour
 * 1 teaspoon salt
@@ -83,3 +84,17 @@ Yield: One 1½-pound loaf.
 * no pre-heat of the pyrex container
 * feedback:
   * 4/5
+
+### Experiment #6: Raisins, cinnamon and rhum
+* 3 cups flour
+* 1 teaspoon salt
+* 1/4 teaspoon yeast
+* 8 tablespoons raisins
+* 3 tablespoons cinnamon
+* 3 tablespoons sugar
+* 2 tablespoons rhum
+* 1 5/8 water
+* oven @ 425 F
+* no pre-heat of the pyrex container
+* feedback:
+  * x/5
