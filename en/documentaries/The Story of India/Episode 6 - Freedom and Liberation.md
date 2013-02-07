@@ -70,5 +70,6 @@
 * Muslims into the new Pakistan
 * Hindus and Sikhs, eastward into India
 * migration of 14 million people (!)
-* creation of the Dominion of Pakistan in 1947: ![map](muslim_pakistan.jpg)
+* 1947: creation of the Dominion of Pakistan: ![map](muslim_pakistan.jpg)
+* 1956: West Pakistan became the Islamic Republic of Pakistan (with 180 million inhabitants today, 6th most populous country)
 * 1971: East Pakistan (with the help of India) became the People's Republic of Bangladesh
