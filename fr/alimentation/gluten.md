@@ -10,8 +10,8 @@
 
 ## Céréales qui contiennent du gluten
 * blé
+* le kamut et l'épeautre (qui sont des variétés de blé)
 * dans une moindre mesure:
- * le kamut et l'épeautre (qui sont des variétés de blé)
  * seigle
  * orge
 
