@@ -47,7 +47,8 @@
 
 ## les limules 
 * ils sont parmi les tout premiers animaux sortis de l'eau
-* Voilà à quoi ressemble un limule: ![photo](limules.jpg)
+* on en retrouve encore aujourd'hui
+* Voilà à quoi ressemble une limule: ![photo](limules.jpg)
 * l'oxygène (qui se trouvait à l'extérieur de l'eau) leur a permis de sortir de l'eau
 
 ## Les sucres produits par les plantes
