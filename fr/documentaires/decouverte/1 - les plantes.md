@@ -64,7 +64,7 @@
 * 1 fougère peut aspirer 5L de CO2 par jour
 * le niveau d'O a beaucoup augmenté (le double d'aujourd'hui)
 * la taille des invertébrés est dépendant du taux d'O dans l'air
-* Exemple: ![photo](immenses_invertebres.jpg)
+* les invertébrés étaient donc probablement beaucoup plus gros à cette époque: ![photo](immenses_invertebres.jpg)
 
 ## Les dinosaures
 * il y a 230 millions d'années, un nouveau groupe d'animaux: les dinosaures
