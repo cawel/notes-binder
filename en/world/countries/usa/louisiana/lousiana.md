@@ -11,7 +11,7 @@ The Royal Proclamation of 1763 was issued October 7, 1763, by King George III fo
 1. Louisiana is inhabited by Native Americans
 2. Louisiana belongs to France
 3. 1763: Louisiana ceded to Spain
-4. 1800: Napoleon exchanges Louisiana against some other territory in Tuscany
+4. 1800: Napoleon exchanges Louisiana against some land in Tuscany
 5. 1803: "Louisiana purchase" (Napoleon sells it to USA)
 
 ## Animated map (1750 - 2008)
