@@ -4,7 +4,7 @@
 * late 1790s: the debate was centered on how to expand in the Americas
 * convergence of 3 trends:
   * commercial revolution
-  * militarty revolution
+  * military revolution
   * democractic revolution
 
 ## War of the First Coalition (1792-1797)
@@ -21,7 +21,7 @@
 * Spain lost its vigor
 
 ## British failures in America
-* Saint-Domingue (yielding the field to former slaves)
+* Saint-Domingue (attacking from Jamaica, but yielding the field to former slaves)
 * also trying to set foot in South America: Buenos Aires
 * led to the shift of the British gaze to India
 
@@ -32,20 +32,20 @@
 * France used to have a great empire in North America, but it lost:
   * Louisiana
   * Canada
-  * Saint Domingue
+  * Saint Domingue colony
 * his plans:
   * European (and Atlantic) peace - peace with Britain means the Atlantic is a clear field
-  * secret deal with Spain to return the Louisiana territory to the French
+  * secret deal with Spain to return the Louisiana territory back to the French (they lost it in 1763)
   * send an expeditionary force to North America
-* 1802: Bonaparte makes his move
+* 1800-1802: Bonaparte makes his move
   * peace with both Austria and Britain
-  * signs treaty with Spain (exchange of Louisana for some land in Italy)
+  * signs treaty with Spain (exchange of Louisana for some land in Tuscany in present-day Italy)
   * the United States are afraid that France would control New Orleans, the key of the subcontinent
 * Bonaparte's plans fails because of the freed slaves of Saint-Domingue
   * Leclerc: leader of the French army
   * Toussaint-l'ouverture: leader of the slaves, taken capture by Napoleon
   * French are defeated
-  * France sells Louisianna to the United States in 1808
+  * France sells Louisianna to the United States in 1803
   * from then on, it will allow the United States to move westward
 * 1803: Napoleon swings his focus back to Europe
 
@@ -77,7 +77,7 @@
 * for Christian principles (the Russian czar Alexander I was a leader and a symbol of that alliance)
 * unrest all over Europe in the 1820's
 * a novel by Stendhal, "The Charter House of Parma", describes how to stay away from liberal principles (e.g. go to the mass, do not read)
-* 1830's and 1840's: tension between traditional forms of rule and rising appeal of liberal believes
+* 1830's and 1840's: tension between traditional forms of rule and rising appeal of liberal beliefs
 
 ## Ethnic identities in North America
 * strict ethnic hierarchy based on blood:
@@ -103,7 +103,7 @@
 * the rebels sought to create their own Mexican empire
 * successful revolutions in Latin America
 * colonies freed themselves from Spanish rule
-* generation of these republics into authroritarian states ruled by creole elites leaning toward military figures
+* these republics turn into authoritarian states ruled by creole elites leaning toward military figures
 
 ## South American liberators
 * creole elite is standing for liberal principles
@@ -159,7 +159,7 @@
 * bringing better public institutions, public ideals
 * but the British ideals are at odds with the way they treat the majority of the people they rule
 
-## Comforting tradition in the spirit of the Holy Alliance
+## In Europe: comforting tradition in the spirit of the Holy Alliance
 * yearning for peace after decades of war
 * increased emphasis on reassuring traditional rituals and ceremonies (Catholic Christianity, Protestant Christianity, mystical strains)
 * nationalism (folklore, history, Romanticism (e.g. Beethoven), Sir Walter Scott's historical novel called 'Ivanhoe')
