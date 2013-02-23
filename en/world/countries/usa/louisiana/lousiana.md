@@ -7,3 +7,4 @@
 
 ## Animated map
 ![map](america-1750-2008.gif)
+* source: http://en.wikipedia.org/wiki/File:Non-Native-American-Nations-Territorial-Claims-over-NAFTA-countries-1750-2008.gif
