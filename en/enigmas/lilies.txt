@@ -1,0 +1,1 @@
+The number of lilies in a pond double every day. So, on the first day of the month there is one lily. On the second day, two lilies, the next day four lilies, then eight, sixteen, thirty two, etc. If the pond is full on the 30th day of the month, what day is it half full?
