@@ -5,7 +5,7 @@
 * cotton textiles
 * cotton garments
 * steamships
-* railroad
+* railroads
 
 ## 2nd industrial revolution enabled by
 * machines to make machines
@@ -18,7 +18,7 @@
 * General Electric is founded by Thomas Edison
 * Herbert Hoover: famous figure, a mining engineer
 * 1910: Chicago is the 6th German-speaking country in the world
-* 1890-1914: the most dynamic period in history for a period of 25 years
+* 1890-1914: the most dynamic period in history (for a 25-year period)
 
 ## Countries benefiting from the 2nd industrial revolution
 * USA
@@ -35,15 +35,15 @@
 * in the 1870s, money is getting standardized
 * people are issuing money in either gold or silver (e.g. China) on both sides of the Atlantic
 * the gold standard becomes the dominant international monetary standard in the 1870s
-* Germany creates an institution to issue money back by gold (a lot of it coming from the French, having won the Franco-Prussian war)
+* Germany creates an institution to issue money backed by gold (a lot of it coming from the French, recently defeated during the Franco-Prussian war)
 
 ## Economic cycle
 * 1893-1894: world depression
 * gold found in South Africa and Alaska
-* 1890s: boom period
-* World trade quadruples between 1890 and 1914
+* end of 1890s: boom period
+* world trade quadruples between 1890 and 1914
 
-## Reasons for the new boom
+## Reasons for the new economic boom
 * commodity boom 
 * safe seas
 * larger and more powerful ships
@@ -67,23 +67,22 @@
   * contradiction
   * police
 
-State power and the demands on the state had both increased substantially by 1900, with states growing increasingly larger and more powerful.
-
 ## Henry Louis "H. L." Mencken 
 * was an American journalist, essayist, magazine editor, satirist, critic of American life and culture, and scholar of American English
 * "Booboisie": his word for the ignorant middle classes
-* "Seeing like a state" book by James Scott
+* "Seeing like a state" book by James Scott depicts the top down approach of the state (simcity-like)
 
-between 1870 and 1900: rise of mass political parties (with millions of members)
-
-President McKinley is assassinated by an anarchist in 1901
+## Facts
+* between 1870 and 1900: rise of mass political parties (with millions of members)
+* by 1910, state power and the demands on the state had both increased substantially, with states growing increasingly larger and more powerful.
+* President McKinley is assassinated by an anarchist in 1901
 
 ## 5 basic movements in 1890-1910
 * upholding national traditions (national values, racial, ethnic identity)
   * established religion
-  * national purity (
+  * national purity
   * personified order/authority (the monarch)
-  * institutionalized order/authoruty (the army)
+  * institutionalized order/authority (the army)
   * empire for power/profit
   * attack social revolutionaries
   * support farmers, landowners
@@ -92,7 +91,7 @@ President McKinley is assassinated by an anarchist in 1901
   * secular
   * modern military
   * retain empire for power/profit, and also to uplift
-  * protectionist: govt't & corporations
+  * protectionist: govt & corporations
   * close relationship with corporations
   * government-led reforms
   * support 'professionals' and modern businessmen
@@ -106,7 +105,7 @@ President McKinley is assassinated by an anarchist in 1901
   * oppose big business, big unions
   * support small farmers, small business, craft unions
 * democratic socialists
-  * strong  central government (to balance big business)
+  * strong central government (to balance big business)
   * secular: oppose intrusion of religious authority
   * protect right to organize
   * internationalist, pacifist, anti-empire, anti-military
@@ -116,11 +115,11 @@ President McKinley is assassinated by an anarchist in 1901
   * cannot work or within the existing system
   * secular
   * anti-military
-  * organize, underground as needed , for direct action
+  * organize, underground as needed, for direct action
   * direction action using general strikes or violence
   * internationalist
 
-## Examples of the battles won by the national conservatives
+## Examples of battles won by the national conservatives
 
 ### Chicago in the 1890s
 * battle between national conservatives and liberals or socialists
@@ -134,7 +133,7 @@ President McKinley is assassinated by an anarchist in 1901
 * national tradition, supported by national conservatives
 * modernizers from the top down
 * borrowing French money, creating a working class, building railroads
-* sees the Jewish as enemies emigration
+* sees the Jewish as enemies leading to mass emigration
 * pogroms: anti-Jewish riots
 * it loses a national war to the Japanese
 * the ruling ‘national tradition’ elite compromised by reaching out to top-down modernizers and liberals, creating a parliament, and moving toward greater constitutional rule in Russia
@@ -142,13 +141,13 @@ President McKinley is assassinated by an anarchist in 1901
 ### Constantinople in 1908
 * capital of the Ottoman empire
 * national traditionalist toppled by national conservatives who call themselves "young Turks"
-* return of the constitution, adopted during the Kazmat reform the 1850s, discarded in the 1870s, allowing representation for minorities
+* return of the constitution, adopted during the Tanzimat reform the 1850s, discarded in the 1870s, allowing representation for minorities
 * trying to secularize the state
 
 ### Barcelona in 1909
 * national conservatives in charge in Spain, aligned with the Spanish king and the Catholic church
-* bitter resentment over issues of education (can't get a decent education for their children)
-* gvt start calling out citizens to fight in Morocco to defend big business interests in mining
+* bitter resentment over issues of education (many can't get a decent education for their children)
+* govt start calling out citizens to fight in Morocco to defend big business interests in mining
 * riots focused against the church
 
 ### Peking in 1911
@@ -164,10 +163,22 @@ President McKinley is assassinated by an anarchist in 1901
 * revolution against Diaz will be dominated by liberal politicians
 
 ### Common thread between those cases
-* always change (even if they are the so-called conservatives)
+* always trying to push change (even if they are the so-called conservatives)
 * mix of domestic and foreign issues
 * increase of state power
 * focus on modernization, national power, empire
 
-## Summary
-* 
+## Summary (1760 - 1914)
+* 1760: intertwining revolutions
+  * commercial
+  * military
+  * democratic
+* enabling changes in the 1800s
+  * rise of nation states
+  * discovery of industrial and scientific power
+  * global Europe (European ideas, European commerce, European coercion, touching every part of the world)
+* 1870s - 1880s: transition period
+* 1890s: great acceleration
+  * rise of modern capitalism
+  * rise of modern nation states
+* 1890-1990: a great 100-year struggle (how to organize modern societies)
