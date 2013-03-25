@@ -39,7 +39,8 @@ function fname() { find . -iname "*$@*"; }
 
 An arguably better (and slightly more portable) way to accomplish this is the special variable $_ , which expands to the last argument of the previous command. Since $_ is a variable rather than a history substitution, it still works when there is no command history (e.g. in scripts)
 
-## '!!:n:h'
+### '!!:n:h'
+
 you can use the head modifier with the '!!' prefix. For example:
 ```
   $ cp file.txt /some/annoyingly/deep/target/directory/other.txt
@@ -47,12 +48,12 @@ you can use the head modifier with the '!!' prefix. For example:
   $ pwd # => /some/annoyingly/deep/target/directory
 ```
 
-## '!!:n:p' prints the command instead of executing it
+### '!!:n:p' prints the command instead of executing it
 
 once you know that !$ is shorthand for !!:$, it's not a huge leap to reason out that you can use `!-2:$` to get the last argument to the 2nd-to-last command. 
 Or `!ls:$` for the last arg to the most recent `ls` command. 
 
-## '!!:n:s/before/after' to do substitutions
+### '!!:n:s/before/after' to do substitutions
 
 We can also do substitution with the :s modifier:
 ```
