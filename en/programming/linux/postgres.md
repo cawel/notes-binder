@@ -1,6 +1,5 @@
-# Postgres
+# postgres
 
-## create a database
 ```
 psql
 create database <database_name>;
