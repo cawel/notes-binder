@@ -26,22 +26,17 @@ $("#tabs div").delegate("#flights a", "click", selectFlight);
 
 
 ## Course #2: Captain's log
-* ```jQuery()``` ensures it's namespaced
-* use ```live()``` to hook handlers which are not yet present on the page (e.g. which will come with Ajax)
-* bind()
+* `jQuery()` ensures it's namespaced
+* use `live()` to hook handlers which are not yet present on the page (e.g. which will come with Ajax)
+* `bind()`
+* `$(element).css({'background-color': '#2C1F11', 'opacity':'0.5'}).animate({ height: '30', opacity: '1'});`
+* `fadeIn()`
+* `fadeOut()`
+* `slideUp()`
+* `slideDown()`
+* `$(element).stop()` to stop any animation 
 
 ```
-$(element).css({'background-color': '#2C1F11', 'opacity':'0.5'}) .animate({ height: '30', opacity: '1'});
-```
-
-```fadeIn()
-```fadeOut()
-```slideUp()
-```slideDown()
-```$(element).stop()``` to stop any animation
-
-```
-$(element)
 $(element).queue(function(next){
   // animation 1
   // animation 2
