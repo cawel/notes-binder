@@ -14,7 +14,8 @@
   * hymns praising the gods
   * ancient prayers for life, prosperity, etc.
 
-## Language is not the same as ethnicity
+## Old human genes
+* language is not the same as ethnicity
 * language and religion can easily be adopted
 * religion is a kind of belief system, just like education
 * we can find some very old genes among some Indians
@@ -32,16 +33,16 @@
 * Pakistan parted from India in 1947
 
 ## Indus Valley Civilization
-* it is a Bronze age civilization
-* the Indus Valley Civilization is also known as the Harappan Civilization
-* because Harappa was the first city archeologists found
 * it is the largest civilization of the ancient world
+  * great empire ranging from the Himalayas to the Arabian sea
+  * mostly covering present-day Pakistan and northwest India
+  * at its peak, the Indus Civilization may have had a population of well over 5 millions
+  * 2000 towns and villages
+* it is a Bronze age civilization
 * heyday: 2900 BC - 1900 BC
+* the *Indus Valley Civilization* is also known as the *Harappan Civilization*
+* because *Harappa* was the first city archeologists found
 * it had lots of traders
-* great empire ranging from the Himalayas to the Arabian sea
-* mostly covering present-day Pakistan and northwest India
-* 2000 towns and villages
-* at its peak, the Indus Civilization may have had a population of well over 5 millions
 * 1500 BC: first definite evidence of an Indian language and literature
 
 ## Sanskrit
@@ -55,24 +56,25 @@
 * towards the plains of the Ganges river
 
 ## Soma
-* it is an ancient drink recorded in the Rig Veda
-* taken from a mountain plant
-* it does not grow in humid plains, so it comes from outside of India
-* it sort of smells like pine
-* bitter taste once infused
+* it is an ancient drink
+  * taken from a mountain plant
+  * it sort of smells like pine
+  * bitter taste once infused
+* it is recorded in the Rig Veda
+  * it is no longer part of Hindu religion
+  * many poems in the Rig Veda are devoted to the merits of drinking soma
+* it does not grow in humid plains, so it must come from outside of India
 * in the mountains of Afghanistan, they still drink soma
-* it is no longer part of Hindu religion
-* many poems in the Rig Veda are devoted to the merits of drinking soma
 
 ## Mahabharata
 * for Indians, it's the greatest story ever told
-* it is an epic of war and tragedy
-* it ends in an apocalyptic battle (in 3100 BC according to the myth)
-* it was composed between 400 BC and 400 AD
-* a story about "doing your duty"
-* it was composed in Sanskrit
+  * it is an epic of war and tragedy
+  * it ends in an apocalyptic battle (in 3100 BC according to the myth)
+  * a story about "doing your duty"
+  * the Mahabharata contains much philosophical and devotional material, such as a discussion of the 4 "goals of life" or Puruṣārtha
 * the Mahabharata is the longest Sanskrit epic
+  * it was composed between 400 BC and 400 AD
+  * it was composed in Sanskrit
 * longest poem in the world
-* the Mahabharata contains much philosophical and devotional material, such as a discussion of the 4 "goals of life" or Puruṣārtha
-* the Mahabharata is 1 of the 2 major Sanskrit epics of ancient India, the other being the Ramayana
-* the Mahabharata is about 1.8 million words in total, roughly 10 times the length of the Iliad and Odyssey combined, or about 4 times the length of the Ramayana
+  * the Mahabharata is 1 of the 2 major Sanskrit epics of ancient India, the other being the Ramayana
+  * the Mahabharata is about 1.8 million words in total, roughly 10 times the length of the Iliad and Odyssey combined, or about 4 times the length of the Ramayana

@@ -3,16 +3,16 @@
 ## Context
 * India divided into many princely states
 * Moguls were still in the North
-* the British and the French are fighting fighting in South India
+* the British and the French are fighting in South India
 * Tamils are caught in the fire
 * key to the British empire was the fort of Madras
 
 ## 1799: British victory
 * a victory after the great battles in South India at Seringapatam
-* a crucial turning point for East India company (profits will soon increase)
-* British controlled Bengal: opium, textiles
+* a crucial turning point for the East India company (profits will soon increase)
+* the British controlled Bengal: opium, textiles
 * Bengal became a mainstay of British imperialism
-* the British started to recovery of the ancient Indian past
+* the British started the recovery of the ancient Indian past
 * Major General Charles Stuart, nickname "Hindu Stuart", worshipped Hindu gods
 * mixed Hindu-Muslim culture in the Ganges Plains
 
@@ -33,7 +33,7 @@
 
 ## British Raj
 * The British Raj (rāj, lit. "reign" in Sanskrit) was British rule in the Indian subcontinent between 1858 and 1947
-* the British Raj was most of the most ingenuous empires in history
+* the British Raj was one of the most ingenuous empires in history
 * immense patchwork: 
   * 675 princely states
   * 25% of the people of the planet
@@ -67,9 +67,25 @@
 ## Partition of India in 1947
 * done on the basis of religious demographics
 * the violent nature of the partition created an atmosphere of mutual hostility and suspicion between India and Pakistan that plagues their relationship to this day
-* Muslims into the new Pakistan
+* Muslims, into the new Pakistan
 * Hindus and Sikhs, eastward into India
 * migration of 14 million people (!)
 * 1947: creation of the Dominion of Pakistan: ![map](muslim_pakistan.jpg)
 * 1956: West Pakistan became the Islamic Republic of Pakistan (with 180 million inhabitants today, 6th most populous country)
 * 1971: East Pakistan (with the help of India) became the People's Republic of Bangladesh
+
+### Bangladesh
+* after Bangladesh gained independence from Pakistan, Secularism was included in the original Constitution of Bangladesh in 1972 as one of the Four State Principles, the others being Democracy, Nationalism and Socialism.
+* Bangladesh follows secular government system in democratic state
+* Muslims constitute 89.5% of the population
+* Hindus constitute 9.6%
+* some people in Bangladesh practice Sufism, as historically Islam was brought to the region by Sufi saints. Sufi influences in the region go back many centuries
+
+### Pakistan
+* Pakistan is the second most populous Muslim-majority country
+* 97% of Pakistanis are Muslim
+* the majority are Sunni, with an estimated 5–20% Shi'a.
+
+## Religions in India
+* the 2001 census reported that Hinduism, with over 800 million adherents (80.5% of the population), was the largest religion in India
+* it is followed by Islam (13.4%)

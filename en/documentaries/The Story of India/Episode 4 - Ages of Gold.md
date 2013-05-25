@@ -1,6 +1,6 @@
 # The Story of India: Ages of Gold
 
-During the dark ages of Europe (400 AD), India has a Golden Age
+During the dark ages of Europe (400 AD), India had a Golden Age
 
 ## Tale of Rama
 * a story about the god who came down to Earth as a king who defeated evil and ruled with justice
@@ -41,8 +41,8 @@ During the dark ages of Europe (400 AD), India has a Golden Age
 
 ## Kama Sutra
 * world’s first sex guide
-* Kama: sense of consciousness of having all senses organs elevated when you are in the act of making love
 * Kama Sutra was written in the 5th century
+* Kama: sense of consciousness of having all sense organs elevated when you are in the act of making love
 
 ## Hindu philosophy
 * 4 purusharthas (goals of human existence):
@@ -54,18 +54,18 @@ During the dark ages of Europe (400 AD), India has a Golden Age
 * the product of an age of freedom of thought
 
 ## The Cholans
-* in the Southern India and islands
-* heyday: from 900 to 1300 AD
-* their capital was Tanjore, in Tamil Nadu
-* at the heart of Tanjore lies a temple of the creator of the empire
-* Rajaraja, the King of Kings
-* a civilization that still exists today
-* the temple is a record keeper
-* the temple is a written-record of the administration of the Cholan empire
-* the Cholan age was one of the greatest periods of Indian art
 * the Cholans: one of the world's great power
-* colonies in Java, Sumatra and the islands of Indonesia:
+  * in the Southern India and islands
+  * heyday: from 900 to 1300 AD
+  * colonies in Java, Sumatra and the islands of Indonesia:
 ![map of the Cholan territory](cholans.jpg)
+  * their capital was Tanjore, in Tamil Nadu
+* at the heart of Tanjore lies a temple of the creator of the empire
+  * Rajaraja, the King of Kings
+  * a civilization that still exists today
+  * the temple is a record keeper
+  * the temple is a written-record of the administration of the Cholan empire
+* the Cholan Age was one of the greatest periods of Indian art
 * pace in South India is slower
 
 ## Tamil
