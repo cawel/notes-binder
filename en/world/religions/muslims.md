@@ -1,5 +1,8 @@
 # Muslims
 
+![map](islam_by_country.png)
+The countries where the Shia form a majority are Iran, Iraq, Azerbaijan, and Bahrain; all are coloured in red.
+
 ## Iran
 * Iran is an Islamic republic. The Constitution of the Islamic Republic of Iran mandates that the official religion of Iran is Shia Islam and the Twelver Ja'fari school, though it also mandates that other Islamic schools are to be accorded full respect, and their followers are free to act in accordance with their own jurisprudence in performing their religious rites and recognizes Zoroastrian, Jewish, and Christian Iranians as religious minorities. 
 * Sunni Muslims constitute approximately 9% of the Iranian population.
