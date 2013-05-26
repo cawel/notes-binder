@@ -7,7 +7,8 @@
 * 3 cups all-purpose or bread flour, more for dusting
 * ¼ teaspoon instant yeast
 * 1¼ teaspoons salt
-* Cornmeal or wheat bran as needed.
+* Cornmeal or wheat bran as needed
+* 1 5/8 cups water
 
 1. In a large bowl combine flour, yeast and salt. Add 1 5/8 cups water, and stir until blended; dough will be shaggy and sticky. Cover bowl with plastic wrap. Let dough rest at least 12 hours, preferably about 18, at warm room temperature, about 70 degrees.
 
@@ -97,4 +98,5 @@ Yield: One 1½-pound loaf.
 * oven @ 425 F
 * no pre-heat of the pyrex container
 * feedback:
-  * x/5
+  * 0/5 - total failure
+  * very thick (the rhum probably killed the yeast)
