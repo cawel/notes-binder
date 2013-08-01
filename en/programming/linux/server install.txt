@@ -1,0 +1,38 @@
+Linux junewallack 3.5.0-17-generic #28-Ubuntu SMP Tue Oct 9 19:32:08 UTC 2012 i686 i686 i686 GNU/Linux
+
+sudo useradd -d /home/testuser -m testuser
+sudo passwd testuser
+
+sudo adduser <username> sudo
+
+chsh
+
+sudo apt-get update
+sudo apt-get install curl
+sudo apt-get install libmysqlclient-dev libmysqlclient18 ruby-dev
+
+curl -L https://get.rvm.io | bash -s stable
+
+exit shell
+test to see if rvm is installed
+
+rvm use 1.8.7 --default
+
+sudo apt-get install rubygems
+
+# old versions of Rails (e.g. 2.3.2)
+gem uninstall rubygems-update         # uninstall all rubygems-update version
+gem install rubygems-update -v 1.4.2  # install rubygems-update version 1.4.2
+update_rubygems                       # It will update you rubygem version with 1.4.2
+
+
+sudo gem install passenger --no-ri --no-rdoc
+sudo apt-get install libcurl4-openssl-dev
+sudo passenger-install-nginx-module
+
+   server {
+      listen 80;
+      server_name www.yourhost.com;
+      root /somewhere/public;   # <--- be sure to point to 'public'!
+      passenger_enabled on;
+   }
